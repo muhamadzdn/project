@@ -1,4 +1,4 @@
-### My Project
+# My Project
 
 Project ini dibuat untuk keperluan pembuatan portofolio yang nanti akan dilanjutkan ke project selanjutnya
 
@@ -8,4 +8,4 @@ Project ini dibuat untuk keperluan pembuatan portofolio yang nanti akan dilanjut
 
 Terima kasih atas kunjungan anda
 
-### Muhamad Zidan
+## Muhamad Zidan
